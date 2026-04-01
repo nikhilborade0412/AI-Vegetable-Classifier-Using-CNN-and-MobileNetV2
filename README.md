@@ -1,8 +1,4 @@
-Here is your **complete professional `README.md` in ONE single block** (copy–paste directly) 👇
 
----
-
-```markdown
 # 🥦 AI Vegetable Classifier  
 
 <p align="center">
