@@ -185,7 +185,7 @@ Model Prediction
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="image/thumbnail.png" width="80%">
+  <img src="image/img.png" width="80%">
 </p>
 
 ---
